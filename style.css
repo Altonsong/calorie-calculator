@@ -1,13 +1,10 @@
 .body {
   background-color: #E8F5E9;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 h1 {
   color: #2E7D32;
-  font-size: 20px;
+  font-size: 18px;
   margin: auto;
   font-family: "Red Hat Display", sans-serif;
   font-optical-sizing: auto;
@@ -18,7 +15,7 @@ h1 {
 
 h2 {
   color: #4CAF50;
-  font-size: 16px;
+  font-size: 14px;
   text-align: end;
   margin: auto;
   font-family: "Red Hat Display", sans-serif;
@@ -39,7 +36,7 @@ h2 {
 
 .catalog {
   /* background-color: #C8E6C9; */
-  width: 400px;
+  width: 350px;
   border: 1px solid #558B2F;
   margin-bottom: 20px;
   border-radius: 5px;
@@ -53,7 +50,7 @@ h2 {
 
 .item-container {
   /* border: 1px solid #558B2F; */
-  width: 500px;
+  width: 350px;
   margin:auto;
   display: flex;
   padding: 5px;
@@ -63,6 +60,7 @@ h2 {
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
+  font-size: 14px;
 
 }
 
